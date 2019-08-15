@@ -7,8 +7,7 @@ function doILookBigInThis(value) {
   for (let i = 0; i < str.length; i++) {
     total += Math.pow(str[i], strLen)
   }
-  if (total === value) return true
-  return false
+  total === value ? true : false
 }
 
 
