@@ -1,0 +1,24 @@
+{
+  "name": "does-my-number-look-big-in-this",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonas-wedemeyer/does-my-number-look-big-in-this.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonas-wedemeyer/does-my-number-look-big-in-this/issues"
+  },
+  "homepage": "https://github.com/jonas-wedemeyer/does-my-number-look-big-in-this#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
