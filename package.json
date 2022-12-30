@@ -19,6 +19,6 @@
   "homepage": "https://github.com/jonas-wedemeyer/does-my-number-look-big-in-this#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.2.0"
+    "mocha": "^10.2.0"
   }
 }
